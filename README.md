@@ -1,7 +1,3 @@
 # git-test
 2022230101 조용성
-<<<<<<< Updated upstream
-Kyungbook   Univ.
-=======
-Kyungbook    Univ.
->>>>>>> Stashed changes
+Kyungbook Univ.
